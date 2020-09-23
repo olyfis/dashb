@@ -1,0 +1,25 @@
+Status
+Contract ID
+App Key
+Customer Name
+Acct Code
+Purch Option
+Prog Type
+Arrears
+Branch
+Rep Name
+Payment Amount
+Residual Amount
+Product Line
+Term
+Equip Cost
+List Price
+ROI NOMPT
+SCD Code
+Local Code
+Rep 2
+Rep 3
+Promo Desc
+New Cust
+Prod = 0070
+Comp Conv

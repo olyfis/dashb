@@ -1,0 +1,28 @@
+td.b3 {
+  font-size: 10px;
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+tr.b3, th.b3 {
+    border: 1px solid black;
+    width:10px;
+    background-color: deepskyblue;
+    font-size: 11px;
+}
+
+tr.b3a, th.b3a {
+    border: 1px solid black;
+    width:15px;
+    background-color: deepskyblue;
+    font-size: 11px;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 1;
+  width: 70%;
+
+  overflow-y: scroll;
+}
